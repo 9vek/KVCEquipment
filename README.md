@@ -1,5 +1,7 @@
 # Kevyn's Vanilla Complement：Equipment
 
+![Image text](pic/logo.png)
+
 Do you love the vanilla Minecraft as much as I do? And have you sometimes thought that Mojang just forgot about some should-be-there items and blocks,  or wanted many practical or interesting features in many small mods to be systematically integrated, or further more, hoped to improve the configurability of the vanilla Minecraft?
 
 This project: **Kevyn's Vanilla Complement** (KVC),  is a Fabric mod project that I started with a whim recently, Aiming to supplement some contents to the vanilla MC. And I want to obey the following important design concepts: 
