@@ -1,6 +1,6 @@
 # Kevyn's Vanilla Complement：Equipment
 
-![Image text](.\src\main\resources\assets\kvc\logo.png)
+![Image text](./src/main/resources/assets/kvc/logo.png)
 
 ## About Kevyn's Vanilla Complement
 
@@ -31,7 +31,7 @@ The last part of the introduction is about recruitment. If you agree with my des
 
 **KVCEquipment** is responsible for complementing the equipment system of vanilla MC. At present, the items and features of the mod are as follows:
 
-![Image text](.\screenshots\all.png)
+![Image text](./screenshots/all.png)
 
 - redstone, lapis, emerald, copper and amethyst armors.
 - redstone, lapis, emerald, copper, amethyst tools.
