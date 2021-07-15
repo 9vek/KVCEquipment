@@ -1,0 +1,6 @@
+{
+    "parent": "item/lapis_bow",
+    "textures": {
+        "layer0": "item/lapis_bow_pulling_2"
+    }
+}

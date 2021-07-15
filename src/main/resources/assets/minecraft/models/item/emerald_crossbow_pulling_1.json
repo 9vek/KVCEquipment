@@ -1,0 +1,6 @@
+{
+    "parent": "item/emerald_crossbow",
+    "textures": {
+        "layer0": "item/emerald_crossbow_pulling_1"
+    }
+}

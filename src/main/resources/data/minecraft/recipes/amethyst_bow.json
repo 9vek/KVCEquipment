@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WR ",
+    "W R",
+    "WR "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:string"
+    },
+    "R": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:amethyst_bow",
+	"count": 1
+  }
+}

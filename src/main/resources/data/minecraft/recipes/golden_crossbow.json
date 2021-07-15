@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WXW",
+    "RYR",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "minecraft:string"
+    },
+	"X": {
+      "item": "minecraft:gold_ingot"
+    },
+	"Y": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "item": "minecraft:golden_crossbow",
+	"count": 1
+  }
+}

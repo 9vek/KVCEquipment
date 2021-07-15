@@ -1,0 +1,84 @@
+{
+	"itemGroup.minecraft.kvc_tools": "KVC Tools",
+	"itemGroup.minecraft.kvc_combat": "KVC Combat",
+
+	"item.minecraft.emerald_sword": "Emerald Sword",
+	"item.minecraft.redstone_sword": "Redstone Sword",
+	"item.minecraft.lapis_sword": "Lapis Sword",
+	"item.minecraft.copper_sword":"Copper_Sword",
+	"item.minecraft.amethyst_sword":"Amethyst_Sword",
+	
+	"item.minecraft.iron_bow": "Iron Bow",
+	"item.minecraft.redstone_bow": "Redstone Bow",
+	"item.minecraft.golden_bow": "Golden Bow",
+	"item.minecraft.emerald_bow": "Emerald Bow",
+	"item.minecraft.lapis_bow": "Lapis Bow",
+	"item.minecraft.fire_bow": "Fire Bow",
+	"item.minecraft.diamond_bow": "Diamond Bow",
+	"item.minecraft.netherite_bow": "Netherite Bow",
+	"item.minecraft.copper_bow": "Copper Bow",
+	"item.minecraft.amethyst_bow": "Amethyst Bow",
+
+	"item.minecraft.iron_crossbow": "Iron Crossbow",
+	"item.minecraft.golden_crossbow": "Golden Crossbow",
+	"item.minecraft.diamond_crossbow": "Diamond Crossbow",
+	"item.minecraft.emerald_crossbow": "Emerald Crossbow",
+	"item.minecraft.redstone_crossbow": "Redstone Crossbow",
+	"item.minecraft.lapis_crossbow": "Lapis Crossbow",
+	"item.minecraft.netherite_crossbow": "Netherite Crossbow",
+	"item.minecraft.copper_crossbow": "Copper Crossbow",
+	"item.minecraft.amethyst_crossbow": "Amethyst Crossbow",
+	
+	"item.minecraft.emerald_helmet": "Emerald Helmet",
+	"item.minecraft.emerald_chestplate": "Emerald Chestplate",
+	"item.minecraft.emerald_leggings": "Emerald Leggings",
+	"item.minecraft.emerald_boots": "Emerald Boots",
+	
+	"item.minecraft.redstone_helmet": "Redstone Helmet",
+	"item.minecraft.redstone_chestplate":"Redstone Chestplate",
+	"item.minecraft.redstone_leggings": "Redstone Leggings",
+	"item.minecraft.redstone_boots": "Redstone Boots",
+
+	"item.minecraft.lapis_helmet": "Lapis Helmet",
+	"item.minecraft.lapis_chestplate":"Lapis Chestplate",
+	"item.minecraft.lapis_leggings": "Lapis Leggings",
+	"item.minecraft.lapis_boots": "Lapis Boots",
+
+	"item.minecraft.emerald_shovel": "Emerald Shovel",
+	"item.minecraft.emerald_pickaxe": "Emerald Pickaxe",
+	"item.minecraft.emerald_axe": "Emerald Axe",
+	"item.minecraft.emerald_hoe": "Emerald Hoe",
+	
+	"item.minecraft.redstone_shovel": "Redstone Shovel",
+	"item.minecraft.redstone_pickaxe": "Redstone Pickaxe",
+	"item.minecraft.redstone_axe": "Redstone Axe",
+	"item.minecraft.redstone_hoe": "Redstone Hoe",
+	
+	"item.minecraft.lapis_shovel": "Lapis Shovel",
+	"item.minecraft.lapis_pickaxe": "Lapis Pickaxe",
+	"item.minecraft.lapis_axe": "Lapis Axe",
+	"item.minecraft.lapis_hoe": "Lapis Hoe",
+
+	"item.minecraft.copper_shovel":"Copper Shovel",
+	"item.minecraft.copper_pickaxe":"Copper Pickaxe",
+	"item.minecraft.copper_axe":"Copper Axe",
+	"item.minecraft.copper_hoe":"Copper Hoe",
+
+	"item.minecraft.amethyst_shovel":"Amethyst Shovel",
+	"item.minecraft.amethyst_pickaxe":"Amethyst Pickaxe",
+	"item.minecraft.amethyst_axe":"Amethyst Axe",
+	"item.minecraft.amethyst_hoe":"Amethyst Hoe",
+
+	"item.minecraft.copper_helmet":"Copper Helmet",
+	"item.minecraft.copper_chestplate":"Copper Chestplate",
+	"item.minecraft.copper_leggings":"Copper Leggings",
+	"item.minecraft.copper_boots":"Copper Boots",
+
+	"item.minecraft.amethyst_helmet":"Amethyst Helmet",
+	"item.minecraft.amethyst_chestplate":"Amethyst Chestplate",
+	"item.minecraft.amethyst_leggings":"Amethyst Leggings",
+	"item.minecraft.amethyst_boots":"Amethyst Boots",
+
+	"item.minecraft.wooden_bow":"Wooden Bow",
+	"item.minecraft.wooden_crossbow":"Wooden Crossbow"
+}

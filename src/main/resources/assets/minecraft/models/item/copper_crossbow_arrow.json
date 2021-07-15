@@ -1,0 +1,6 @@
+{
+    "parent": "item/copper_crossbow",
+    "textures": {
+        "layer0": "item/copper_crossbow_arrow"
+    }
+}

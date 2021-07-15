@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WR ",
+    "W R",
+    "WR "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:string"
+    },
+    "R": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_bow",
+	"count": 1
+  }
+}

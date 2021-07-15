@@ -1,0 +1,6 @@
+{
+    "parent": "item/redstone_crossbow",
+    "textures": {
+        "layer0": "item/redstone_crossbow_pulling_0"
+    }
+}

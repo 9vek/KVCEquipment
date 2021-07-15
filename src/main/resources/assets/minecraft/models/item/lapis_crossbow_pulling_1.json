@@ -1,0 +1,6 @@
+{
+    "parent": "item/lapis_crossbow",
+    "textures": {
+        "layer0": "item/lapis_crossbow_pulling_1"
+    }
+}

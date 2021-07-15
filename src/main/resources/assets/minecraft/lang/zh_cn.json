@@ -1,0 +1,85 @@
+{
+	"itemGroup.minecraft.kvc_tools": "KVC工具",
+	"itemGroup.minecraft.kvc_combat": "KVC战斗物品",
+
+	"item.minecraft.emerald_sword": "绿宝石剑",
+	"item.minecraft.redstone_sword": "红石剑",
+	"item.minecraft.lapis_sword": "青金石剑",
+	"item.minecraft.copper_sword":"铜剑",
+	"item.minecraft.amethyst_sword":"紫晶剑",
+
+	"item.minecraft.iron_bow": "铁弓",
+	"item.minecraft.golden_bow": "金弓",
+	"item.minecraft.diamond_bow": "钻石弓",
+	"item.minecraft.emerald_bow": "绿宝石弓",
+	"item.minecraft.redstone_bow": "红石弓",
+	"item.minecraft.lapis_bow": "青金石弓",
+	"item.minecraft.netherite_crossbow": "下界合金弓",
+	"item.minecraft.fire_bow": "烈焰弓",
+	"item.minecraft.copper_bow": "铜弓",
+	"item.minecraft.amethyst_bow": "紫晶弓",
+
+	"item.minecraft.iron_crossbow": "铁弩",
+	"item.minecraft.golden_crossbow": "金弩",
+	"item.minecraft.diamond_crossbow": "钻石弩",
+	"item.minecraft.emerald_crossbow": "绿宝石弩",
+	"item.minecraft.redstone_crossbow": "红石弩",
+	"item.minecraft.lapis_crossbow": "青金石弩",
+	"item.minecraft.netherite_crossbow": "下界合金弩",
+	"item.minecraft.copper_crossbow": "铜弩",
+	"item.minecraft.amethyst_crossbow": "紫晶弩",
+	
+	"item.minecraft.emerald_helmet": "绿宝石头盔",
+	"item.minecraft.emerald_chestplate": "绿宝石胸甲",
+	"item.minecraft.emerald_leggings": "绿宝石护腿",
+	"item.minecraft.emerald_boots": "绿宝石靴子",
+	
+	"item.minecraft.redstone_helmet": "红石头盔",
+	"item.minecraft.redstone_chestplate":"红石胸甲",
+	"item.minecraft.redstone_leggings": "红石护腿",
+	"item.minecraft.redstone_boots": "红石靴子",
+
+	"item.minecraft.lapis_helmet": "青金石头盔",
+	"item.minecraft.lapis_chestplate":"青金石胸甲",
+	"item.minecraft.lapis_leggings": "青金石护腿",
+	"item.minecraft.lapis_boots": "青金石靴子",
+
+	"item.minecraft.emerald_shovel": "绿宝石锹",
+	"item.minecraft.emerald_pickaxe": "绿宝石镐",
+	"item.minecraft.emerald_axe": "绿宝石斧",
+	"item.minecraft.emerald_hoe": "绿宝石锄",
+
+	"item.minecraft.redstone_shovel": "红石锹",
+	"item.minecraft.redstone_pickaxe": "红石镐",
+	"item.minecraft.redstone_axe": "红石斧",
+	"item.minecraft.redstone_hoe": "红石锄",
+
+	"item.minecraft.lapis_shovel": "青金石锹",
+	"item.minecraft.lapis_pickaxe": "青金石镐",
+	"item.minecraft.lapis_axe": "青金石斧",
+	"item.minecraft.lapis_hoe": "青金石锄",
+
+	"item.minecraft.copper_shovel":"铜锹",
+	"item.minecraft.copper_pickaxe":"铜镐",
+	"item.minecraft.copper_axe":"铜斧",
+	"item.minecraft.copper_hoe":"铜锄",
+
+	"item.minecraft.amethyst_shovel":"紫晶锹",
+	"item.minecraft.amethyst_pickaxe":"紫晶镐",
+	"item.minecraft.amethyst_axe":"紫晶斧",
+	"item.minecraft.amethyst_hoe":"紫晶锄",
+
+
+	"item.minecraft.copper_helmet":"铜头盔",
+	"item.minecraft.copper_chestplate":"铜胸甲",
+	"item.minecraft.copper_leggings":"铜护腿",
+	"item.minecraft.copper_boots":"铜靴子",
+
+	"item.minecraft.amethyst_helmet":"紫晶头盔",
+	"item.minecraft.amethyst_chestplate":"紫晶胸甲",
+	"item.minecraft.amethyst_leggings":"紫晶护腿",
+	"item.minecraft.amethyst_boots":"紫晶靴子",
+
+	"item.minecraft.wooden_bow":"木弓",
+	"item.minecraft.wooden_crossbow":"木弩"
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WR ",
+    "W X",
+    "WR "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:string"
+    },
+    "R": {
+      "item": "minecraft:blaze_rod"
+    },
+	"X": {
+	  "item": "minecraft:flint_and_steel"
+	}
+  },
+  "result": {
+    "item": "minecraft:fire_bow",
+	"count": 1
+  }
+}

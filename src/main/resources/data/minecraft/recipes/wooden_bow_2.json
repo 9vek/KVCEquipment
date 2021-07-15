@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WR ",
+    "W R",
+    "WR "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:string"
+    },
+    "R": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_bow",
+	"count": 1
+  }
+}

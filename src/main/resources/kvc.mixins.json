@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.kevyn.kvc.equipment.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "ItemStackMixin",
+    "ArmorMaterialsMixin",
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

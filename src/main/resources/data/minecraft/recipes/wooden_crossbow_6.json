@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WXW",
+    "RYR",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "minecraft:string"
+    },
+	"X": {
+      "item": "minecraft:dark_oak_planks"
+    },
+	"Y": {
+      "item": "minecraft:tripwire_hook"
+    }
+  },
+  "result": {
+    "item": "minecraft:wooden_crossbow",
+	"count": 1
+  }
+}

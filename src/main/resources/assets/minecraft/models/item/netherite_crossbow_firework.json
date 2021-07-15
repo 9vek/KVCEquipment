@@ -1,0 +1,6 @@
+{
+    "parent": "item/netherite_crossbow",
+    "textures": {
+        "layer0": "item/netherite_crossbow_firework"
+    }
+}

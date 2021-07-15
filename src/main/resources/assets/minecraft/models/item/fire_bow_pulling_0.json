@@ -1,0 +1,6 @@
+{
+    "parent": "item/fire_bow",
+    "textures": {
+        "layer0": "item/fire_bow_pulling_0"
+    }
+}
