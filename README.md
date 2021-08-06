@@ -2,6 +2,10 @@
 
 ![Image text](./src/main/resources/assets/kvc/logo.png)
 
+Curseforge release: [KVCEquipment - Mods - Minecraft - CurseForge](https://www.curseforge.com/minecraft/mc-mods/kvc-equipment)
+
+MCBBS release: [[1.17\][KVCEquipment]蛋挞君的原版补全装备篇——来制作更多原版风格的工具和装备吧！](https://www.mcbbs.net/thread-1224426-1-1.html)
+
 ## About this mod
 
 **KVCEquipment** complements the equipment system of vanilla minecraft. At present, the items and features of the mod are as follows:
