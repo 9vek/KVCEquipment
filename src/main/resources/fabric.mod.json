@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "kvc",
+  "id": "kvc-equipment",
   "version": "${version}",
 
-  "name": "KVCEquipment",
+  "name": "Kevyn's Vanilla Complement: Equipment",
   "description": "Extra tools, weapons and armors base on vanilla materials",
   "authors": [
     "kevyn"

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:emerald_pickaxe",
+    "minecraft:redstone_pickaxe",
+	"minecraft:lapis_pickaxe",
+	"minecraft:copper_pickaxe",
+	"minecraft:amethyst_pickaxe"
+  ]
+}
