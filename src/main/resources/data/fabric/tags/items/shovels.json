@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:emerald_shovel",
+    "minecraft:redstone_shovel",
+	"minecraft:lapis_shovel",
+	"minecraft:copper_shovel",
+	"minecraft:amethyst_shovel"
+  ]
+}

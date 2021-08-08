@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:emerald_hoe",
+    "minecraft:redstone_hoe",
+	"minecraft:lapis_hoe",
+	"minecraft:copper_hoe",
+	"minecraft:amethyst_hoe"
+  ]
+}

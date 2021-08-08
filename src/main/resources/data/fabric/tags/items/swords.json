@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:emerald_sword",
+    "minecraft:redstone_sword",
+	"minecraft:lapis_sword",
+	"minecraft:copper_sword",
+	"minecraft:amethyst_sword"
+  ]
+}
