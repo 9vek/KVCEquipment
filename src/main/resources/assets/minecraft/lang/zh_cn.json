@@ -80,6 +80,6 @@
 	"item.minecraft.amethyst_leggings":"紫晶护腿",
 	"item.minecraft.amethyst_boots":"紫晶靴子",
 
-	"item.minecraft.wooden_bow":"木弓",
-	"item.minecraft.wooden_crossbow":"木弩"
+	"item.minecraft.bow":"木弓",
+	"item.minecraft.crossbow":"木弩"
 }

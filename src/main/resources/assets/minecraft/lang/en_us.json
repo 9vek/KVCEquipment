@@ -79,6 +79,6 @@
 	"item.minecraft.amethyst_leggings":"Amethyst Leggings",
 	"item.minecraft.amethyst_boots":"Amethyst Boots",
 
-	"item.minecraft.wooden_bow":"Wooden Bow",
-	"item.minecraft.wooden_crossbow":"Wooden Crossbow"
+	"item.minecraft.bow":"Wooden Bow",
+	"item.minecraft.crossbow":"Wooden Crossbow"
 }

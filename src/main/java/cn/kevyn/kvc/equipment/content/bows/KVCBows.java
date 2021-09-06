@@ -44,7 +44,7 @@ public class KVCBows {
     public static void doRegister() {
 
         /** 覆盖原版弓 */
-        Registry.register(Registry.ITEM, Registry.ITEM.getRawId(Items.BOW), "wooden_bow", WOODEN_BOW_ITEM);
+        Registry.register(Registry.ITEM, Registry.ITEM.getRawId(Items.BOW), "bow", WOODEN_BOW_ITEM);
         /** 铁弓 */
         Registry.register(Registry.ITEM, new Identifier("minecraft", "iron_bow"), IRON_BOW);
         /** 黄金弓 */

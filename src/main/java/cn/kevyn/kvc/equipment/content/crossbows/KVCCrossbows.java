@@ -40,7 +40,7 @@ public class KVCCrossbows {
     public static void doRegister() {
 
         /** 覆盖原版弩 */
-        Registry.register(Registry.ITEM, Registry.ITEM.getRawId(Items.CROSSBOW), "wooden_crossbow", WOODEN_CROSSBOW);
+        Registry.register(Registry.ITEM, Registry.ITEM.getRawId(Items.CROSSBOW), "crossbow", WOODEN_CROSSBOW);
         /** 铁弩 */
         Registry.register(Registry.ITEM, new Identifier("minecraft", "iron_crossbow"), IRON_CROSSBOW);
         /** 金弩 */
