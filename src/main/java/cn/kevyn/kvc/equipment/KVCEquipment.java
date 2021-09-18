@@ -1,6 +1,7 @@
 package cn.kevyn.kvc.equipment;
 
 import cn.kevyn.kvc.equipment.config.KVCConfig;
+import cn.kevyn.kvc.equipment.content.KVCGroups;
 import cn.kevyn.kvc.equipment.content.armors.KVCArmors;
 import cn.kevyn.kvc.equipment.content.bows.KVCBows;
 import cn.kevyn.kvc.equipment.content.crossbows.KVCCrossbows;
@@ -16,6 +17,9 @@ public class KVCEquipment implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		/** 物品组 */
+		KVCGroups.doRegister();
 
 		/** 覆盖原版工具 */
 		VanillaToolItemsOverride.doOverride();
